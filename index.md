@@ -4,13 +4,13 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Parking.sg
       subtitle: Pay for parking using your mobile devices at all coupon parking car
         parks. <br>A collaboration between GovTech, URA and HDB.
-      background: /images/hero-banner.png
+      background: /images/Hero_small.jpg
       button: Contact Us
       url: /contact-us/
   - infobar:
@@ -21,7 +21,6 @@ sections:
         gyroscope; picture-in-picture" allowfullscreen></iframe>
   - infopic:
       title: Calculate fees automatically
-      button: Button Text
       alt: Image alt text
   - infopic:
       title: Extend remotely
