@@ -1,0 +1,9 @@
+collections:
+  faq:
+    output: true
+    order:
+      - activate-session.md
+      - extend-session.md
+      - end-session.md
+      - payment.md
+      - others.md
